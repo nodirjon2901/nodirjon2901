@@ -2,7 +2,7 @@
   Hi 👋, I'm Nodir
 </h1>
 
-![](https://komarev.com/ghpvc/?username=junioruz&color=gray)
+![](https://komarev.com/ghpvc/?username=nodirjon2901&color=gray)
 
 <h4 align="left"> I'm a Java backend web developer from Uzbekistan </h4>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=REM&size=16&pause=100&color=F6F6F6&width=900&height=30&lines=My+first+programming+language+I+learned+was+C%2B%2B.%7C;I'm+focusing+on+building+eCommerce+softwares.;I'm+focusing+on+building+eCommerce+softwares.;I+love+web+development." alt="Typing SVG" /></a>
